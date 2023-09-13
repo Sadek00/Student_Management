@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Task_Quad_StudentManagement.props" />
+</Project>
